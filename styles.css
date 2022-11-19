@@ -113,3 +113,24 @@ p    {
     background: #24a4d6;
     color: white;
 }
+
+#press {
+    background: #24a4d6;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 8%;
+    margin: 20px 20px 50px;
+}
+
+.press-logo-b {
+    width: 13%;
+    margin: 20px 20px 50px;
+}
+
+.press-logo-c {
+    width: 5%;
+    margin: 20px 20px 50px;
+}
