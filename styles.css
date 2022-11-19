@@ -11,6 +11,19 @@ h1 {
     font-weight: 900;
 }
 
+h2 {
+    font-size: 3rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+em {
+    font-size: 1rem;
+    font-family: 'Montserrat';
+    color: white;
+}
+
 .container-fluid {
     padding: 3% 15%;
 
@@ -85,4 +98,18 @@ p    {
 
 .feature-box {
     text-align: center;
+}
+
+/* Testimonials section  */
+
+.testimonial-bot {
+    width: 15%;
+    margin: 20px;
+}
+
+#testimonials {
+    text-align: center;
+    padding: 7% 15%;
+    background: #24a4d6;
+    color: white;
 }
