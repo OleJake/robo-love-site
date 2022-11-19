@@ -55,3 +55,34 @@ body {
 .download-button {
     margin: 5% 3% 5% 0;
 }
+
+
+/* features  */
+
+.icon {
+    color: #24a4d6;
+}
+
+.icon:hover {
+    color: #16789f;
+}
+
+h3 {
+    font-style: 'Montserrat';
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+p    {
+    font-size: 1rem;
+    color: #8f8f8f;
+}
+
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+}
