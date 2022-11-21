@@ -91,7 +91,9 @@ p    {
     color: #8f8f8f;
 }
 
-
+#features {
+    padding: 7% 15%;
+}
 
 .feature-box {
     text-align: center;
@@ -133,5 +135,5 @@ p    {
 }
 
 .carousel-item {
-    padding: 7% 15%;
+
 }
