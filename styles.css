@@ -92,9 +92,6 @@ p    {
 }
 
 
-#features {
-    padding: 7% 15%;
-}
 
 .feature-box {
     text-align: center;
@@ -133,4 +130,8 @@ p    {
 .press-logo-c {
     width: 5%;
     margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
