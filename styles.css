@@ -36,8 +36,29 @@ body {
     line-height: 1.5;
 }
 
+
+@media (max-width: 768px) {
+
+
+    #title {
+        text-align: center;
+    }
+
+    .title-logo {
+        max-width: 30%;
+        margin-right: 72%;
+        margin-top: 5%;
+    }
+
+}
+
+
+
 .title-logo {
     width: 70%;
+    left: 33%;
+    bottom: 10%;
+    position: relative;
 }
 
 
