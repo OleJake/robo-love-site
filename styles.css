@@ -153,3 +153,32 @@ p {
 .pricing-box {
   padding: 3% 2%;
 }
+
+/* Ending Section  */
+
+#ending {
+  background: #24a4d6;
+  padding: 7% 15%;
+  color: white;
+  text-align: center;
+}
+
+.ending-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-style: "Montserrat";
+  font-weight: bold;
+}
+
+/* Footer Section  */
+
+#footer {
+  background: white;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.socials {
+  font-size: 20px;
+  width: 30px;
+}
