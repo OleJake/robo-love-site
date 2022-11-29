@@ -29,16 +29,22 @@ em {
   padding: 7% 15%;
 }
 
-/* Title */
+/* Sections  */
 
-#title {
+.colored {
   background: #24a4db;
   color: white;
-  text-align: left;
 }
+
+.white {
+  background: white;
+}
+
+/* Title */
 
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 @media (max-width: 768px) {
@@ -104,11 +110,6 @@ em {
 
 /* Testimonials section  */
 
-#testimonials {
-  background: #24a4d6;
-  color: white;
-}
-
 .testimonial-text {
   font-size: 3rem;
   line-height: 1.5;
@@ -120,7 +121,6 @@ em {
 }
 
 #press {
-  background: #24a4d6;
   padding-bottom: 3%;
 }
 
@@ -155,18 +155,7 @@ em {
   padding: 3% 2%;
 }
 
-/* Ending Section  */
-
-#ending {
-  background: #24a4d6;
-  color: white;
-}
-
 /* Footer Section  */
-
-#footer {
-  background: white;
-}
 
 .socials {
   font-size: 20px;
